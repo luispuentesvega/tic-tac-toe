@@ -10,4 +10,4 @@ Execute the next command
 ````
 $ py main.py
 ````
-![alt tag](screenshot.png)
+![alt tag](screenshot.PNG)
